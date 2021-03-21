@@ -1,4 +1,4 @@
-This Earth scenario for Civ 4 BtS is work in progress; I'm uploading it mostly as a backup, though most of the Old World is already playable. The scenario is optimized for the AI of the Advanced Civ mod, but doesn't require any mod. I'm focusing on those regions of the world that can be best represented with the available civs, techs, terrain types etc., chiefly among them Europe. 
+This Earth scenario for Civ 4 BtS is work in progress; I'm uploading it mostly as a backup, though most of the Old World is already playable. The scenario is optimized for the AI of the Advanced Civ mod, but doesn't require any mod. I'm focusing on those regions of the world that can be best represented with the available civs, techs, terrain types etc., chiefly among them Europe.
 
 I'm using a custom map projection (see projection.jpg) designed to shrink unproductive areas and to reduce the distance between Mongolia and Europe in order to make a Mongolian Invasion feasible. The result has some resemblance to the Bonne projection. One downside is that Russia has no easy access to Alaska. 
 Link: en.wikipedia.org/wiki/Bonne_projection
@@ -16,6 +16,8 @@ To be done:
 * Rules changes in AdvCiv that forbid Farms on Tundra and remove the health penalty from Jungle. To reduce implausible deforestation. Also, some of the tiles representing spruces and firs should perhaps have no Forest feature at all as those woods have fairly limited uses.
 * Low-latitude Tundra (representing weathered tropical soils) should be displayed as "Shrubland".
 * Addition of an Islet feature (like in Realism Invictus).
+* Additional requirements for Hydro Plant because riverside cities are so common.
+(Cf. forums.civfanatics.com/threads/rivers-and-hydro-power.661445 )
 * Changes to the AI evaluation of techs that found a religion. Especially leaders with a Medieval favorite religion like Charlemagne should avoid founding one of the early religons. Could then perhaps use Justinian instead of Pericles.
 * Overhaul of leader personalities. I might swap in Qin for Mao after increasing Qin's peace-weight (pitting him against his warlike neighbors) and Cyrus for Darius after making Cyrus a bit more warlike. The Chinese leader also needs to be more averse to long-distance wars (higher MaxWarMinAdjacentLandPercent).
 * Possibly add more Barbarian cities in order to shape the early expansion of the civs; hopefully not necessary.

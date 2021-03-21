@@ -94,8 +94,8 @@ public class WBOut {
 						"WARLORD"),
 				new Civ("ZARA_YAQOB", "ETHIOPIA", 59, 24, "AGRICULTURE", "",
 						new String[]{"AKSUM","GONDAR","NUBIAN"}, "PRINCE"),
-				new Civ("MANSA_MUSA", "MALI", 36, 29, "MINING", "",
-						new String[]{"KUMBISALEH"}, "MONARCH"),
+				new Civ("MANSA_MUSA", "MALI", 37, 28, "MINING", "",
+						new String[]{"DJENNE"}, "MONARCH"), // Or KUMBISALEH 36,29
 				new Civ("SHAKA", "ZULU", 55, 10, "HUNTING", "",
 						new String[]{"BULAWAYO"}, "EMPEROR", false),
 				new Civ("PACAL", "MAYA", 65, 10, "", "",
@@ -1393,7 +1393,7 @@ public class WBOut {
 		 * Isles. Shouldn't be needed anymore once America is
 		 * on the map. */
 		for(int x = 10; x < 25; x++)
-			for(int y = 35; y <= 50; y++)
+			for(int y = 25; y <= 50; y++)
 				if(y != 42 && x != 23)
 					grass.add(new Point(x,y));
 		final Set<Point2D> peak = new HashSet<Point2D>(
@@ -3536,18 +3536,19 @@ public class WBOut {
 		}));
 		for(int x = 34; x <= 60; x++) {
 			ice.add(new Point(x,63));
+			ice.add(new Point(x,64));
 			if(x < 50 || x > 53) // Hole above Spitsbergen
 				ice.add(new Point(x,62));
 		}
 		for(int x = 61; x <= 69; x++) {
-			for(int y = 57; y <= 63; y++) {
+			for(int y = 57; y <= 64; y++) {
 				if(x == 63 && y == 57) // Severnaya Zemlya
 					continue;
 				if(x == 67 && y == 57) // Lyakhovsky Islands
 					continue;
 				if(x == 68 && y == 60) // Wrangel Island
 					continue;
-				if(x == 69 && (y == 62 || y == 63)) // Leave some workable tiles for ANadyr
+				if(x == 69 && (y == 62 || y == 63)) // Leave some workable tiles for Anadyr
 					continue;
 				ice.add(new Point(x,y));
 			}
