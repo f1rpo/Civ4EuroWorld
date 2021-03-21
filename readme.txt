@@ -1,4 +1,4 @@
-This Earth scenario is work in progress; I'm uploading it mostly as a backup, though most of the Old World is already playable. The scenario is optimized for the AdvCiv AI, but doesn't require any mod. I'm focusing on those regions of the world that can be best represented with the available civs, techs, terrain types etc., chiefly among them Europe. 
+This Earth scenario for Civ 4 BtS is work in progress; I'm uploading it mostly as a backup, though most of the Old World is already playable. The scenario is optimized for the AI of the Advanced Civ mod, but doesn't require any mod. I'm focusing on those regions of the world that can be best represented with the available civs, techs, terrain types etc., chiefly among them Europe. 
 
 I'm using a custom map projection (see projection.jpg) designed to shrink unproductive areas and to reduce the distance between Mongolia and Europe in order to make a Mongolian Invasion feasible. The result has some resemblance to the Bonne projection. One downside is that Russia has no easy access to Alaska. 
 Link: en.wikipedia.org/wiki/Bonne_projection
