@@ -7022,8 +7022,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=16,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=16,y=41
@@ -7382,8 +7382,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=17,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=17,y=41
@@ -7742,8 +7742,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=18,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=18,y=41
@@ -8102,8 +8102,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=19,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=19,y=41
@@ -8462,8 +8462,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=20,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=20,y=41
@@ -8822,8 +8822,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=21,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=21,y=41
@@ -9182,8 +9182,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=22,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=22,y=41
@@ -9542,8 +9542,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=23,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=23,y=41
@@ -9902,8 +9902,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=24,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=24,y=41
@@ -10262,8 +10262,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=25,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=25,y=41
@@ -10622,8 +10622,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=26,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=26,y=41
@@ -10982,8 +10982,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=27,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=27,y=41
@@ -11342,8 +11342,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=28,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=28,y=41
@@ -12062,8 +12062,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=30,y=40
-	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	TerrainType=TERRAIN_COAST
+	PlotType=3
 EndPlot
 BeginPlot
 	x=30,y=41

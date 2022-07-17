@@ -1394,7 +1394,7 @@ public class WBOut {
 		 * on the map. */
 		for(int x = 10; x < 25; x++)
 			for(int y = 25; y <= 50; y++)
-				if(y != 42 && x != 23)
+				if(y != 42 && y != 33 && x != 23)
 					grass.add(new Point(x,y));
 		final Set<Point2D> peak = new HashSet<Point2D>(
 				Arrays.asList(new Point[] {
