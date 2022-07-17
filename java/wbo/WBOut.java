@@ -2677,7 +2677,8 @@ public class WBOut {
 				new Point(76,33),
 				new Point(71,32),
 				new Point(72,32),
-				new Point(73,32), // This hill may make the Harappan city too difficult to conquer for the AI; but without it, a random AI civ (Egypt, Ethiopia ...) tends to conquer it.
+				// This hill makes the Harappan city too difficult to conquer for the AI
+				//new Point(73,32),
 				new Point(71,31),
 				new Point(72,31),
 				new Point(77,37),

@@ -30968,7 +30968,7 @@ EndPlot
 BeginPlot
 	x=79,y=39
 	TerrainType=TERRAIN_DESERT
-	PlotType=1
+	PlotType=2
 	BeginUnit
 		UnitType=UNIT_ARCHER, UnitOwner=18
 	EndUnit
